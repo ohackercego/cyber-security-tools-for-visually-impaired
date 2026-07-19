@@ -1,4 +1,4 @@
-# cyber-security-tools-for-visually-impaired
+	# cyber-security-tools-for-visually-impaired
 accessible cyber security tools for the visually impaired
 
   
@@ -149,7 +149,7 @@ By monitoring and recording real-time data, Airodump-ng enables security profess
 It is imperative to emphasize that the use of Airodump-ng, like other security tools, should be conducted ethically and legally, with proper authorization from the responsible parties for the network or system in question.
 
 
-    ## Tools to crack passwords
+## Tools to crack passwords
 * [John the Ripper password cracker](https://www.openwall.com/john/)
 
 
